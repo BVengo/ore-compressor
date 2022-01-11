@@ -1,0 +1,3 @@
+scoreboard objectives remove oc_item_count_1
+scoreboard objectives remove oc_item_count_2
+scoreboard objectives remove oc_success

@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:diamond_block"
+		},
+		"title": "Ore Compressor",
+		"description": ["", 
+			{"text": "Compress ores and precious metals into their smallest form!\n", "color": "green"},
+			{"text": "Have a piece of paper labelled '", "color": "green"},
+			{"text": "compress", "color":"gold"},
+			{"text": "' anywhere in your inventory to enable compression."}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "vengopacks:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

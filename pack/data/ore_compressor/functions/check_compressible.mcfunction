@@ -1,0 +1,14 @@
+execute as @s run function ore_compressor:try_compress/coal
+execute as @s run function ore_compressor:try_compress/raw_iron
+execute as @s run function ore_compressor:try_compress/iron_nugget
+execute as @s run function ore_compressor:try_compress/iron_ingot
+execute as @s run function ore_compressor:try_compress/raw_gold
+execute as @s run function ore_compressor:try_compress/gold_nugget
+execute as @s run function ore_compressor:try_compress/gold_ingot
+execute as @s run function ore_compressor:try_compress/raw_copper
+execute as @s run function ore_compressor:try_compress/copper_ingot
+execute as @s run function ore_compressor:try_compress/diamond
+execute as @s run function ore_compressor:try_compress/netherite_ingot
+execute as @s run function ore_compressor:try_compress/lapis_lazuli
+execute as @s run function ore_compressor:try_compress/emerald
+execute as @s run function ore_compressor:try_compress/redstone
