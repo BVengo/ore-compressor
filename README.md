@@ -13,7 +13,7 @@ Here is a list of the items that are compressed:
 |-------------------|-----------------------|
 | Coal              | Coal Block            |
 | Raw Iron          | Raw Iron Block        |
-| Iron Nugget       | Iron Ingot            |   
+| Iron Nugget       | Iron Ingot            |
 | Iron Ingot        | Iron Block            |
 | Raw Gold          | Raw Gold Block        |
 | Gold Nugget       | Gold Ingot            |
