@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 8,
+		"pack_format":10,
 		"description": [{"text":"Automatically compress ores and metals into their simpler forms.","color":"gold"}]
 	}
 }
